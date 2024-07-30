@@ -8,7 +8,7 @@ Through my professional career I discovered that I'm pretty good at troubleshoot
 - I’m working on **a sentiment analysis project on hotel reviews using NLP**
 - Currently learning **Power BI and Looker**
 - Ask me about **my gender-based violence prevention work**
-- Fun fact **I can speak a language only 0.1% of the world population knows :🇦🇱:**
+- Fun fact **I can speak a language only 0.1% of the world population knows**
 - How to reach me **sdragush@uwo.ca**
 
 <h3 align="left">Connect with me:</h3>
