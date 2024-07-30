@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm Sindi</h1>
+<h1 align="center">Hi there, I'm Sindi 👋 </h1>
 <h3 align="center">A science nerd that hangs out with the humanities crowd. Currently in Toronto</h3>
 
-I'm a data scientist with an academic background in biology, and 4+ years of work experience in higher education and pharmaceutical research. The common thread in my journey is that I enjoy solving puzzles, even more so if it's a math problem (yes I think math is fun).
+I'm a data scientist with an academic background in biology, and 4+ years of work experience in higher education and pharmaceutical research. The common thread in my journey is that I enjoy solving puzzles, even more so if it's a math problem (yes I think math is fun)
 
-Through my professional career I discovered that I'm pretty good at troubleshooting problems and finding solutions that cater to an overarching goal. Once I learned how data science can combine my skills and strengths, I dove right in.
+Through my professional career I discovered that I'm pretty good at troubleshooting problems and finding solutions that cater to an overarching goal. Once I learned how data science can combine my skills and strengths, I dove right in!
 
-- I’m working on **a sentiment analysis project on hotel reviews using NLP**
-- Currently learning **Power BI and Looker**
-- Ask me about **my gender-based violence prevention work**
-- Fun fact **I can speak a language only 0.1% of the world population knows**
-- How to reach me **sdragush@uwo.ca**
+- ⚙️ I’m working on **a sentiment analysis project on hotel reviews using NLP**
+- 🎓 Currently learning **Power BI and Looker**
+- 🤔 Ask me about **my gender-based violence prevention work**
+- 🌐 Fun fact **I can speak a language only 0.1% of the world population knows**
+- 🤝🏻 How to reach me **sdragush@uwo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
