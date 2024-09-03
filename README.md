@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sindi 👋 </h1>
 <h3 align="center">A science nerd that hangs out with the humanities crowd. Currently in Toronto</h3>
 
-I'm a data scientist with an academic background in biology, and 4+ years of work experience in higher education and pharmaceutical research. The common thread in my journey is that I enjoy solving puzzles, even more so if it's a math problem (yes I think math is fun)
+I'm a data scientist with an academic background in biology, and 3+ years of work experience in higher education and pharmaceutical research. The common thread in my journey is that I enjoy solving puzzles, even more so if the 'puzzle' is people.
 
 Through my professional career I discovered that I'm pretty good at troubleshooting problems and finding solutions that cater to an overarching goal. Once I learned how data science can combine my skills and strengths, I dove right in!
 
